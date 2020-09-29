@@ -75,4 +75,5 @@ const game = () =>{
         });
     });
 }
+// Calling the function.
 game();
